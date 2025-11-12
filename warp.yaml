@@ -1,0 +1,26 @@
+name: Your Name Theme
+accent: "#7a7edc"
+cursor: "#7a7edc"
+background: "#070C13"
+foreground: "#ffffff"
+details: darker
+
+terminal_colors:
+  normal:
+    black:   "#070C13"
+    red:     "#a17bad"
+    green:   "#49dcee"
+    yellow:  "#6AD7EB"
+    blue:    "#7a7edc"
+    magenta: "#b5a9bc"
+    cyan:    "#7cdff8"
+    white:   "#C9EDF2"
+  bright:
+    black:   "#313e4f"
+    red:     "#cab2d2"
+    green:   "#99f0fa"
+    yellow:  "#b8eff9"
+    blue:    "#c0c2f1"
+    magenta: "#e2dce5"
+    cyan:    "#d1f6ff"
+    white:   "#ffffff"
