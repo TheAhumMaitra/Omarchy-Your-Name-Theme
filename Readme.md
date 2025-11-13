@@ -3,7 +3,8 @@
 # Idea
 I love "Your Name" flim by "Makato Shinkai". So, I decided to create an amazing theme for Omarchy (My 3rd Hyprland Setup).
 
-
+# How to install
+Copy this repo's 'your-name' folder
 # Screenshots
 ![`Screenshot no.1 preview of the theme`](./screenshots/s1.png)
 
